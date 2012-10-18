@@ -109,5 +109,8 @@ fi
 
 # call stk
 if [ -f ~/.stkrc ]; then
-    . .stkrc
+    . ~/.stkrc
 fi
+
+
+
