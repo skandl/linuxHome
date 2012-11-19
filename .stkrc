@@ -1,5 +1,7 @@
 
-#aliases
+#SVN settings
+export SVN_EDITOR=vim
 
-alias em='emacs -nw'
+#set vi mode 
+set -o vi
 
